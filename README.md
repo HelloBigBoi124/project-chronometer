@@ -1,4 +1,3 @@
-```markdown
 # 🏁 Cronômetro de Corrida - Sistema de Temporização
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
