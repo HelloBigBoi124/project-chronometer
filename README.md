@@ -1,7 +1,6 @@
 # 🏁 Cronômetro de Corrida - Sistema de Temporização
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
