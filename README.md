@@ -72,7 +72,7 @@ CREATE TABLE RELATORIOS (
 
 ## 👥 Contribuidores
 
-- Heitor Carnielo Janko
-- Gabriel Soares
+- <a href="https://github.com/HelloBigBoi124">Heitor Carnielo Janko</a>
+- <a href="https://github.com/Gabriel485s">Gabriel Soares</a>
 
 ---
